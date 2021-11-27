@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  background-color: black;
+  text-align: center;
+  font-family: "Poiret One", cursive;
+  font-size: 17px;
+  padding: 100px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Poiret One", monospace;
+}
